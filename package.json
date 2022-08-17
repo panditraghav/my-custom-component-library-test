@@ -1,5 +1,5 @@
 {
-  "name": "my-custom-library-test",
+  "name": "@panditraghav/my-custom-library-test",
   "version": "0.0.1",
   "description": "This is a testing library that I am creating",
   "main": "dist/cjs/index.js",
